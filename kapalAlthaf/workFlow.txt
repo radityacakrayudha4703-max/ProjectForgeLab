@@ -1,1 +1,21 @@
-the most complicated problem : how to create submirsible motor, with high power and slim design
+Aim : 		Create an RC ship with live camera using microcontroller and submersible motor to create high torque
+
+problems : 	creating submersible and slim motor with high torque
+
+questions : 	- would it be possible to be manufactured using outrunner motor ?
+		- how to manufacture moveable excavator basket
+		- how long the battery would last
+		- would it be possible to use bevel 90 degrees to replace submersible motor ?
+
+
+Component needed
+ESP 32
+OV2640 2mp cukup dengan ESP32 S1
+
+IC L298N/IBT2
+
+
+WorkFlow
+
+IC L298N succeed
+managed to pull data from website to controller
