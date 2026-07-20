@@ -19,3 +19,5 @@ WorkFlow
 
 IC L298N succeed
 managed to pull data from website to controller
+
+jadi 
