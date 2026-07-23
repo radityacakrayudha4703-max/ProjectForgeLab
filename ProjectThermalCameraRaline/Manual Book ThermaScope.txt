@@ -1,0 +1,21 @@
+Manual Book
+
+1. Unlock ThermaScope bracket by turning the knop clockwise
+2. Adjust ThermaScope bracket to the size of the device
+3. Lock the bracket by turning the knop anti clockwise
+4. Turn on ThermaScope by sliding the button on the side of the device
+5. Go to wifi settings in the monitoring device, connect THERMASCOPE wifi, pass : thermal123
+6. On the monitoring device, go to browser and type 192.168.4.1
+
+LED Status
+
+- Green LED - Slow Blink = ThermaScope is on
+- Green LED - Double Blink = Changing state notifications
+- Green LED - Solid On = Website sending data to device
+
+Charging
+- Red LED - Solid On = Charging
+ 
+Setting Up Notification
+- Go to setting on 192.168.4.1
+- Set the desire range of pixel on every state
